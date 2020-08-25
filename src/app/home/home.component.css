@@ -1,0 +1,42 @@
+.header{
+  width:  100%;
+  height: 50px;
+  background-color: red;
+}
+
+.firmenname{
+  float: left;
+  margin: 10px;
+  color: white;
+}
+
+.warenkorb{
+  float: right;
+  margin:10px;
+  height:30px;
+  background-color: white;
+}
+
+.produkte{
+  margin: 40px;
+}
+
+.produkt{
+  clear:left;
+  border-bottom: solid 2px grey;
+}
+
+.produktinfo{
+  
+  margin-left: 30px;
+  margin-bottom: 20px;
+  float:left;
+}
+
+.produktansicht{
+  float:left;
+}
+
+.produktkurztext{
+  float: left;
+}

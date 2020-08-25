@@ -1,0 +1,6 @@
+
+<div class="cart-item" *ngFor="let produkt of produkte">
+  <span>{{ produkt.name }}</span>
+  <span>{{ produkt.preis}} {{waehrung}}</span>
+</div>
+<button (click)="zurueck()">Zurück</button>
